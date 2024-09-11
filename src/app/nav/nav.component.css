@@ -1,0 +1,31 @@
+*{
+    margin:0;
+    padding:0;
+    box-sizing:border-box; 
+}
+nav{
+    z-index: 999;
+    height:60px;
+    width:100vw;
+    background-color: rgba(243, 186, 118, 0.826);
+    display:flex;
+    align-items:center;
+    justify-content:space-between;
+    position:fixed;
+
+}
+.logo{
+    height:60px;
+
+}
+.navlinks  a{
+    text-decoration:none;
+    color:white;
+    padding:15px 20px;
+    font-weight:600;
+
+
+}
+.navlinks a:hover{
+    background-color:rgb(218, 100, 32) ;
+}

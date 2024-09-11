@@ -1,0 +1,46 @@
+footer{
+    display: flex;
+    justify-content: space-between;
+    background-color: rgba(243, 186, 118, 0.826);
+    color: #fff;
+    padding: 20px;
+}
+
+footer-section {
+    flex: 1;
+    padding: 20px;
+}
+
+.footer-logo {
+    width: 60px; 
+    display: flex;
+    align-items: center;
+}
+.footer p{
+    font-size: 50px;
+
+}
+
+.footer h2 {
+    margin-bottom: 10px;
+}
+
+footer ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+footer ul li {
+    margin-bottom: 5px;
+}
+
+footer ul li a {
+    text-decoration: none;
+    color: #fff;
+}
+
+footer a img {
+    width: 30px; 
+    margin-right: 10px;
+}
+
