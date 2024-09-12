@@ -24,14 +24,15 @@
     text-align:center;
     align-items:center;
     width:50%;
+    margin-left: 100px;
 
 
 
 }
 .landing-text h1{
-
+font-family: "Changa", sans-serif;
 font-size:60px;
-font-weight:500;
+font: weight 1500px;
 color:brown;
     
 }
@@ -39,6 +40,7 @@ color:brown;
     padding: 10px 20px;
     background-color: brown;
     color:white;
+    font:weight 1000px;
 
 
 }

@@ -1,0 +1,24 @@
+
+.container{
+    height:100vh;
+    width:100vw;
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    background-color: bisque;
+    gap:50px;
+
+}
+.container>img{
+    height:200px;
+}
+.small-images>img{
+    border-radius: 10px;
+    height:100px;
+    width:80px;
+    object-fit:cover;
+    display:block;
+    margin:10px;
+    column-rule-style: dashed;
+
+}
